@@ -1,0 +1,33 @@
+Commands for Dragon:
+---------------------------------------------------------------
+Prefix (/e)
+---------------------------------------------------------------
+Food:
+
+/e taco [Autobuys taco]
+/e ham [Autobuys Hamburger]
+/e chicken [Autobuys Chicken]
+/e pizza [Autobuys pizza]
+---------------------------------------------------------------
+Melee:
+
+/e bat
+/e pf
+/e shovel
+/e ss
+---------------------------------------------------------------
+Guns:
+
+/e rpg
+/e lmg
+/e drum
+/e sil
+/e rev
+/e db
+/e sg
+/e tac
+---------------------------------------------------------------
+Misc (Armor):
+
+/e high
+/e med
